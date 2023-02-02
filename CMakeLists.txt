@@ -21,7 +21,6 @@ set (
             -Wformat=2 \
             -Wno-unused-parameter \
             -Werror \
-            -Wcast-align \
             -Wduplicated-cond \
             -Wduplicated-branches \
             -Wlogical-op \
